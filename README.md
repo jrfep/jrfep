@@ -8,9 +8,12 @@ I learn and teach by sharing experiences, challenges, solutions and insights. I 
 
 I am often busy coding and creating documents, scripts, and maps. I use R, python and shell scripts, Markdown and Quarto, and leverage popular JavaScript libraries to create useful online resources.
 
-Do you want to know more?
+Do you want to know more? Continue to my website: [Español](https://jrfep.github.io/esp/) / [English](https://jrfep.github.io/eng/)
 
-Continue to my website: [Español](https://jrfep.github.io/esp/) / [English](https://jrfep.github.io/eng/)
+You can also browse:
+- my ⚡publications ⚡ in my [ORCID profile](https://orcid.org/0000-0002-9554-3395),
+- my ✨ datasets ✨ and other contributions at [DataCite Commons](https://commons.datacite.org/orcid.org/0000-0002-9554-3395)
+- my 🔭 open science projects 🔭 at [OSF](https://osf.io/7q5ny/)
 
 <!--
 **jrfep/jrfep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
